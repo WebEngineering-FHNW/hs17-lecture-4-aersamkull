@@ -1,18 +1,18 @@
 <!doctype html>
 <html lang="en" class="no-js">
 <head>
-    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
 
-    <asset:stylesheet src="mobile.css"/>
+<asset:stylesheet src="mobile.css" />
 
-    <g:layoutHead/>
+<g:layoutHead />
 </head>
 <body>
 
-    Layouted via safari.gsp !
+	Layouted via safari.gsp !
 
 
-    <g:layoutBody/>
+	<g:layoutBody />
 
 </body>
 </html>
